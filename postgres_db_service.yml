@@ -1,4 +1,4 @@
-# db service deployment yaml
+# db service deployment yml
 apiVersion: v1
 kind: Service
 metadata:
