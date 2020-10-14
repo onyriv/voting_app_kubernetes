@@ -1,5 +1,4 @@
 # db service deployment yaml
-# test test test
 apiVersion: v1
 kind: Service
 metadata:
